@@ -18,11 +18,12 @@ git config --list
 	exibe todas as configurações
 	
 [git remote add origin] (https://github.com/andercol/livro-receitas.git)
-	linka o repositorio local com o repositorio remoto
-	Obs.: orign é um apelido, podendo ser subistituido por outro nome mas por convenção se utiliza o origin
-	
+
+​	linka o repositorio local com o repositorio remoto
+​	Obs.: orign é um apelido, podendo ser subistituido por outro nome mas por convenção se utiliza o origin
+​	
 git remote rm origin ou upstream
-	remove um repositorio remoto
+​	remove um repositorio remoto
 
 git remote -v
 	lista os repositorios remotos cadastrados.
